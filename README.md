@@ -3,7 +3,9 @@
 
 
 <br>
+```diff
 ! My name is Daniel, I'm from Serbia.
+```
 <br>
 
 I'm programmer with over 3 years of experience in building games, windows applications, mobile applications and websites. I have strong communication, passion for (coding && drawing pixel art) and also I love learning new things.
