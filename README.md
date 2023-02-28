@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 My name is Daniel, I'm from Serbia.
 
 [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal)](https://github.com/anuraghazra/github-readme-stats)
