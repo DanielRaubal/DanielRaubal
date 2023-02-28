@@ -5,7 +5,7 @@
 <br>
 <img src="https://img.shields.io/badge/author-My name is Daniel, I'm from Serbia.%20-blue?style=flat" />
 
-${color{red}My name is Daniel, I'm from Serbia.}$
+My name is Daniel, I'm from Serbia.
 
 `I'm programmer with over 3 years of experience in building games, windows applications, mobile applications and websites. I have strong communication, passion for (coding && drawing pixel art) and also I love learning new things.`
 <br>
