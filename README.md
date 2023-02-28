@@ -27,7 +27,7 @@ My name is Daniel, I'm from Serbia.
 <br>
 
 <hr>
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <hr>
 
