@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 My name is Daniel, I'm from Serbia.
 
 <br>
-https://capsule-render.vercel.app/api?
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
 <br>
