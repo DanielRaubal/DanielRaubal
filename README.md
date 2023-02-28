@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 My name is Daniel, I'm from Serbia.
 
 <br>
-**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Raubal** is a ✨ _special_ ✨ 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=2600&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=2600px&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
