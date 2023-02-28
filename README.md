@@ -1,15 +1,11 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal&style=for-the-badge&color=green)
 
-<p align="center"><img src="https://profile-counter.glitch.me/{DanielRaubal}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <br>
 My name is Daniel, I'm from Serbia.
 
-👀 I’m interested in CAD work
-🌱 I’m currently learning Onshape and Solid Edge
-💞️ I’m looking to collaborate on physical protyping
-📫 How to reach me: k.engdahl@arduino.cc
+
 
 <br>
 
