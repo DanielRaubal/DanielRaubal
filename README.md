@@ -13,15 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<center>
+
 [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
 -->
+
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal)
 <br>
 My name is Daniel, I'm from Serbia.
 <br>
-
+<hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+</div>
