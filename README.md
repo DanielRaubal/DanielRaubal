@@ -5,7 +5,7 @@
 
 <br>
 My name is Daniel, I'm from Serbia.
-👋 Hi, I’m @kengdahl
+
 👀 I’m interested in CAD work
 🌱 I’m currently learning Onshape and Solid Edge
 💞️ I’m looking to collaborate on physical protyping
