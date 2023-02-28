@@ -1,22 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<!--
-**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
--->
 
 <br>
 
@@ -27,8 +11,7 @@ My name is Daniel, I'm from Serbia.
 <br>
 
 <hr>
-![C#](https://shields.io/badge/style-plastic-green?logo=appveyor&style=plastic)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <hr>
 
 <div align="center">
