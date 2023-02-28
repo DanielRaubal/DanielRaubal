@@ -3,7 +3,7 @@
 
 
 <br>
-<img src="https://img.shields.io/static/v1?label=&message=Ааи&color=green" />
+<img src="https://img.shields.io/badge/author-Daniel%20Raubal-blue?style=flat" />
 
 ${color{red}My name is Daniel, I'm from Serbia.}$
 
