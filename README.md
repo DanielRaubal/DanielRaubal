@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
 -->
-
-My name is Daniel, I'm from Serbia.
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal)
+<br>
+My name is Daniel, I'm from Serbia.
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
