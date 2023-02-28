@@ -1,10 +1,16 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ###
 
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal&style=for-the-badge&color=green)
 
 
 <br>
 My name is Daniel, I'm from Serbia.
+👋 Hi, I’m @kengdahl
+👀 I’m interested in CAD work
+🌱 I’m currently learning Onshape and Solid Edge
+💞️ I’m looking to collaborate on physical protyping
+📫 How to reach me: k.engdahl@arduino.cc
+
 <br>
 
 # Social media #
