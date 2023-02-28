@@ -4,7 +4,7 @@
 
 <br>
 
-$${\color{red}Red}$$
+${\color{red}Red}$
 My name is Daniel, I'm from Serbia.
 
 <br>
