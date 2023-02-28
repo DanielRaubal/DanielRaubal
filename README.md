@@ -11,8 +11,10 @@ My name is Daniel, I'm from Serbia.
 <br>
 
 <hr>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
- <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+![C](https://?style=for-the-badge&logo=c&logoColor=white)
+<img alt="git" src="?style=flat-square&logo=git&logoColor=white" />
+
+<img alt="git" src="img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
 
 <hr>
 
