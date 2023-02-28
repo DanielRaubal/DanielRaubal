@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+<br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal)
+<br>
 <br>
 My name is Daniel, I'm from Serbia.
 <br>
@@ -27,4 +29,5 @@ My name is Daniel, I'm from Serbia.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
