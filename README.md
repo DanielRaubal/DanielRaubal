@@ -3,6 +3,7 @@
 
 
 <br>
+![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal&style=for-the-badge&color=green)
 
 
 <br>
@@ -10,7 +11,6 @@
 My name is Daniel, I'm from Serbia.
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal&style=for-the-badge&color=green)
 
 <hr>
 
