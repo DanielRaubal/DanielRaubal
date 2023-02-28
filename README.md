@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
 -->
 
-<div align="center">
 <br>
 
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal)
@@ -26,6 +25,8 @@ Here are some ideas to get you started:
 My name is Daniel, I'm from Serbia.
 <br>
 <hr>
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
