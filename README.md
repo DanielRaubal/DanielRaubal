@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal)
+![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal&style=flat-square&color=green)
 <br>
 <br>
 My name is Daniel, I'm from Serbia.
