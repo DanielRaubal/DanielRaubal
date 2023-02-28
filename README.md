@@ -21,7 +21,7 @@ My name is Daniel, I'm from Serbia.
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=1600%height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=2600%height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
