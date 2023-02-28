@@ -3,7 +3,7 @@
 
 
 <br>
-<img src="https://img.shields.io/badge/author-Daniel%20Raubal-blue?style=flat" />
+<img src="https://img.shields.io/badge/author-My name is Daniel, I'm from Serbia.%20Raubal-blue?style=flat" />
 
 ${color{red}My name is Daniel, I'm from Serbia.}$
 
