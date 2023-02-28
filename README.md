@@ -4,10 +4,6 @@
 
 
 <br>
-
-
-<br>
-<br>
 My name is Daniel, I'm from Serbia.
 <br>
 
