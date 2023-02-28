@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal&style=for-the-badge&color=green)
 
-<img src="https://img.shields.io/badge/author-My name is Daniel, I'm from Serbia.%20-blue?style=or-the-badge&color=green" />
+<img src="https://img.shields.io/badge/author-My name is Daniel and I'm from Serbia.%20-blue?style=or-the-badge&color=green" />
 
 `I'm programmer with over 3 years of experience in building games, windows applications, mobile applications and websites. I have strong communication, passion for (coding && drawing pixel art) and also I love learning new things. Also I love to work on arduino projects, mostly writing C code for RP2040 (it is far cheaper, faster, and has more flash)`
 
