@@ -6,11 +6,12 @@
 <img src="https://img.shields.io/badge/author-My name is Daniel, I'm from Serbia.%20-blue?style=flat" />
 
 ${color{red}My name is Daniel, I'm from Serbia.}$
+
 <span style="color: blue;">This text is blue</span>
-`<span style="color: blue;">This text is blue</span>`
+`<span style="color: blue;">I'm programmer with over 3 years of experience in building games, windows applications, mobile applications and websites. I have strong communication, passion for (coding && drawing pixel art) and also I love learning new things.</span>`
 <br>
 
-I'm programmer with over 3 years of experience in building games, windows applications, mobile applications and websites. I have strong communication, passion for (coding && drawing pixel art) and also I love learning new things.
+
 <br>
 
 Also I love to work on arduino projects, mostly writing C code for RP2040 (it is far cheaper, faster, and has more flash)
