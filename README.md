@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 My name is Daniel, I'm from Serbia.
 
 <br>
+**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DanielRaubal/DanielRaubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=2600&height=300&section=header&text=capsule%20render&fontSize=90)
 
