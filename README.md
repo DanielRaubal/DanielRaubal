@@ -3,7 +3,8 @@
 
 
 <br>
-![](https://img.shields.io/static/v1?label=&message=Daniel&color=green)
+<img src="https://img.shields.io/static/v1?label=&message=Ааи&color=green" />
+
 ${color{red}My name is Daniel, I'm from Serbia.}$
 
 
