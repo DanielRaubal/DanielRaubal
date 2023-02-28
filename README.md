@@ -4,8 +4,8 @@
 
 <br>
 
-${\color{red}Red}$
-My name is Daniel, I'm from Serbia.
+${\color{red}My name is Daniel, I'm from Serbia.}$
+
 
 <br>
 
