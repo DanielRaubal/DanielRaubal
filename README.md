@@ -11,6 +11,7 @@ My name is Daniel, I'm from Serbia.
 <br>
 
 <hr>
+<p>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
@@ -18,7 +19,7 @@ My name is Daniel, I'm from Serbia.
 
 <img alt="git" src="?style=flat-square&logo=git&logoColor=white" />
 <img alt="git" src="?style=flat-square&logo=git&logoColor=white" />
-
+</p>
 
 
 <hr>
