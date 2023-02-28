@@ -7,9 +7,9 @@
 <br>
 
 <br>
-Also I love to work on arduino projects, mostly writing C code for RP2040 (it is far cheaper, faster, and has more flash)
-
+`Also I love to work on arduino projects, mostly writing C code for RP2040 (it is far cheaper, faster, and has more flash)`
 <br>
+
 # Social media #
 <p>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
