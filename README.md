@@ -3,8 +3,8 @@
 
 
 <br>
-<p style="color:orange;">
-! My name is Daniel, I'm from Serbia.
+<p color="orange">
+My name is Daniel, I'm from Serbia.
 </p>
 <br>
 
