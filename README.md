@@ -41,13 +41,11 @@
 <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" />
 </p>
 
-
 <hr>
 
-<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+
