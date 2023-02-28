@@ -25,7 +25,12 @@ Here are some ideas to get you started:
 <br>
 My name is Daniel, I'm from Serbia.
 <br>
+
 <hr>
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<C#>&logoColor=white&color=2bbc8a)
+
+<hr>
+
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
