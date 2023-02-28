@@ -51,7 +51,7 @@ Also I love to work on arduino projects, mostly writing C code for RP2040 (it is
 
 <div align="center">
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
