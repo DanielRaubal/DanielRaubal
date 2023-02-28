@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
 -->
 
 My name is Daniel, I'm from Serbia.
 
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
