@@ -1,24 +1,15 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal&style=for-the-badge&color=green)
 
-
-<br>
 <img src="https://img.shields.io/badge/author-My name is Daniel, I'm from Serbia.%20-blue?style=or-the-badge&color=green" />
-
-
 
 `I'm programmer with over 3 years of experience in building games, windows applications, mobile applications and websites. I have strong communication, passion for (coding && drawing pixel art) and also I love learning new things.`
 <br>
 
-
 <br>
-
 Also I love to work on arduino projects, mostly writing C code for RP2040 (it is far cheaper, faster, and has more flash)
 
-
-
 <br>
-
 # Social media #
 <p>
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
@@ -28,8 +19,6 @@ Also I love to work on arduino projects, mostly writing C code for RP2040 (it is
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
-
-
 # IDE's #
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -37,7 +26,6 @@ Also I love to work on arduino projects, mostly writing C code for RP2040 (it is
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
-  
 </p>
 
 # Skill's #
@@ -63,7 +51,7 @@ Also I love to work on arduino projects, mostly writing C code for RP2040 (it is
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
