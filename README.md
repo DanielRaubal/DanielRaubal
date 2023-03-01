@@ -18,6 +18,12 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" style="height:auto;" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
+ <img class="img" style="height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" />
+</div>
+
 -->
 
 # IDE's #
@@ -48,17 +54,11 @@
 </p>
 <hr>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" style="height:auto;" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
- <img class="img" style="height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" />
-</div>
-  
-  
 <table cellpadding="0">
   <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
+
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-    <!-- GitHub Top Language Card -->
+
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&langs_count=9&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
