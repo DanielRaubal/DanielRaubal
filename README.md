@@ -3,11 +3,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![](https://komarev.com/ghpvc/?username=your-github-DanielRaubal&style=for-the-badge&color=green)
 
-  <style>
-  table td {
-    border: none !important;
-  }
-</style>
+
   
 
 <img src="https://img.shields.io/badge/author-My name is Daniel and I'm from Serbia.%20-blue?style=or-the-badge&color=green" />
@@ -60,6 +56,11 @@
 </p>
 <hr>
 
+    <style>
+  table td {
+    border: none !important;
+  }
+</style>
 <table cellpadding="0" cellspacing="0" style="border: none;}">
   <tr style="padding: 0">
  <!-- GitHub Stats Card -->  
