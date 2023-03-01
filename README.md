@@ -58,7 +58,7 @@
 
 
   
-<table cellpadding="0" cellspacing="0" style="border: none;">
+<table cellpadding="0" cellspacing="0">
   <tr style="padding: 0">
  <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
