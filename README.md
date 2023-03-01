@@ -56,11 +56,12 @@
 </p>
 <hr>
 
-    <style>
-  table td {
-    border: none !important;
+<style>
+  table#example-table td {
+    border: none;
   }
 </style>
+  
 <table cellpadding="0" cellspacing="0" style="border: none;}">
   <tr style="padding: 0">
  <!-- GitHub Stats Card -->  
