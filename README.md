@@ -52,13 +52,15 @@
  <img class="img" style="height:auto;" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
  <img class="img" style="height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" />
 </div>
-
-<table cellpadding="0" align="center">
+  
+  
+<table cellpadding="0">
   <tr style="padding: 0">
-
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark"/></td>
-
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right"/></td>
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
+  
   </div>
