@@ -48,15 +48,15 @@
 
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" />
 </div>
 
 <div class='container'>
-<img style="height: 350px; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=blue-green" />
+<img style="height: 350px; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
 &nbsp;
 &nbsp;
-<img style="height: 350px; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&theme=blue-green&langs_count=8&layout=compact" /></div>
+<img style="height: 350px; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" /></div>
 </div>
 
 
