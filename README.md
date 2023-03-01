@@ -43,20 +43,9 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" />
 </p>
-
 <hr>
 
-
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" />
+ <img class="img" style="height:100px;" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
+ <img class="img" style="height:auto;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" />
 </div>
-
-<div class='container'>
-<img style="height: 350px; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
-&nbsp;
-&nbsp;
-<img style="height: 350px; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" /></div>
-</div>
-
-
