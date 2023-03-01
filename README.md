@@ -46,6 +46,6 @@
 <hr>
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" style="height:100px;" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
+ <img class="img" style="height:400px;" src="https://github-readme-stats.vercel.app/api?username=DanielRaubal&show_icons=true&theme=dark" />
  <img class="img" style="height:auto;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRaubal&hide_progress=false&theme=dark&align=right" />
 </div>
