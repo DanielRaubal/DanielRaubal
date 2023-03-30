@@ -18,6 +18,7 @@
 
 ___[Warrning] I don't like putting projects to github, so if you want to see more just send me a message!___
   <br>
+    <br>
 `I'm programmer with over 3 years of experience in building games, windows applications, mobile applications and websites. I have strong communication, passion for (coding && drawing pixel art) and also I love learning new things. Also I love to work on arduino projects, mostly writing C code for RP2040 (it is far cheaper, faster, and has more flash)`
 
 <br>
